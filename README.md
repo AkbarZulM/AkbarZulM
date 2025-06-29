@@ -17,7 +17,7 @@
 
 #### My Github Stats
 
-[![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkbarZulM&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkbarZulM&show_icons=true&theme=tokyonight)
 
 #### Repository
 
